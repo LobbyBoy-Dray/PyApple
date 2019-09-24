@@ -15,5 +15,3 @@
 - **Notes**：包括简版ppt与详细版notes。
 - **Reading materials**：包括Git与Github的更详细介绍、anaconda的安装指南、python程序的两种运行方式。
 - **Tex code**：Notes的Latex源码。
-
-哈哈哈
